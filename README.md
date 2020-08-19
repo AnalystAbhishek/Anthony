@@ -3,7 +3,7 @@ A real time chat application with login and room access features.
 
 <img src="client/1.png">
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+
 
 ## Introduction
 Ever wonder a stack that will solve your problem of client and server connectivity with a ease of control and flexible functionality.
