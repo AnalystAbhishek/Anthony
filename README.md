@@ -8,5 +8,3 @@ A real time chat application with login and room access features.
 ## Introduction
 Interactive chat Application
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
