@@ -8,3 +8,8 @@ A real time chat application with login and room access feature.
 ## Introduction
 Interactive chat Application
 
+## Features
+- room access
+- spam detection
+- emoji support
+- new user notification
