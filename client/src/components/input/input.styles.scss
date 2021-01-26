@@ -34,8 +34,8 @@ select:focus {
   width: 26%;
 
   margin-top: -12px;
-  .sendButton:active {
-    background: #ffbf00;
-    box-shadow: inset -20px -20px 23px #c99700, inset 20px 20px 23px #ffe700;
-  }
+}
+.sendButton:active {
+  background: #ffbf00;
+  box-shadow: inset -20px -20px 23px #c99700, inset 20px 20px 23px #ffe700;
 }
