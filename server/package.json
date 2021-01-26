@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "backend-ashfire",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alphasaurs",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
