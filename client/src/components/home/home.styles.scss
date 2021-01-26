@@ -1,0 +1,41 @@
+body {
+  padding: 50px;
+  background-color: #ffbf00;
+  .clickOn {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  .posts {
+    display: flex;
+    flex-flow: row wrap;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    .post {
+      background: linear-gradient(315deg, #ffcc00, #e6ac00);
+      box-shadow: -20px -20px 23px #c99700, 20px 20px 23px #ffe700;
+      margin: 10px;
+      height: 200px;
+      width: 200px;
+      padding: 10px;
+    }
+    .post:active {
+      box-shadow: inset 20px 20px 60px #d9a200, inset -20px -20px 60px #ffdc00;
+    }
+  }
+  .logo {
+    width: 150px;
+    height: 150px;
+    margin: 12px;
+  }
+
+  @media (max-width: 480px) {
+    .posts {
+      .post {
+        width: 100%;
+      }
+    }
+  }
+}
